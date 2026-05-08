@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+.next/
+dist/
+build/
+*.log
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Go
+bin/
+realtime
+
+# OS
+.DS_Store
